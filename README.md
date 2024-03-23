@@ -13,25 +13,16 @@ Motivated software developer with a strong passion for learning. 1.5 years of ex
   - Additional Experience: Graduate Teaching Assistant for Data Structures and Algorithms
 
 ## Skills
-- **Programming Languages:** Python, C#, Typescript
-- **Technologies:** Generative AI, LLMs, SQL, Apache Spark, Excel
+- **Programming Languages:** Python, C, C++, Javscript
+- **Technical:** Good knowledge of data structures and algorithms, Linux and building RESTful APIs using Django and ExpressJS.
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Data Engineering Tools:** Apache Airflow, Apache Superset, Apache Kafka, Snowflake
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform
 - **Communication:** Effective written and oral communication skills demonstrated as a teaching assistant
-- **Analytical:** Extensive analytical skills as a data scientist
 - **Collaborative:** Ability to thrive in a collaborative team environment
 
 ## Certificates
 - **Systems Design Expert** - AlgoExpert Canada (2024)
-
-## Projects
-### Analytics Dashboard for a Smart Parking System (Jan 2024 - Present)
-- Collaborated with a 6-member team to implement a reservation-based system for addressing parking issues.
-- Designing batch data pipelines to aggregate critical data for analytics dashboard using Python, MySQL, Django-Rest-Framework, and AWS.
-
-### Optimizing Soybean Cultivation (Sept 2023 - Dec 2023)
-- Refined soybean cultivation model by optimizing pest elimination strategies using Python, Gurobi, and MatplotLib.
-
-### Bank Marketing Strategy Model (Jan 2023 - April 2023)
-- Built a robust machine learning model predicting term deposit subscriptions using Python, Pandas, NumPy, MatplotLib, Seaborn, and Scikit-learn.
 
 ## Experience
 **Software Developer**  
