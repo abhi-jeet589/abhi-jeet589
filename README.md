@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/abhijeet-uday-karmakar) [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/abhi-jeet589)
 
 ## Summary
-Motivated software developer with a strong passion for learning. 1.5 years of experience developing effective solutions to complex problems. Profound experience in Python and C#. A passion to work on artificial intelligence with exposure to artificial intelligence concepts and tools that include neural networks, generative AI, and Microsoft Azure Cognitive Services.
+Motivated software developer with a strong passion for learning. 1.5 years of experience developing effective solutions to complex problems. Profound experience in Python, PostgreSQL and Linux. A passion to work on data engineering projects with exposure to tools like Airflow, Superset and Kafka. Proficient using tools like Docker, Kubernetes and Git.
 
 ## Education
 - **M.Eng in Electrical and Software Engineering**
