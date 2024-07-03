@@ -13,8 +13,8 @@ Motivated software developer with a strong passion for learning. 1.5 years of ex
   - Additional Experience: Graduate Teaching Assistant for Data Structures and Algorithms
 
 ## Skills
-- **Programming Languages:** Python, C, C++, Javscript
-- **Technical:** Good knowledge of data structures and algorithms, Linux and building RESTful APIs using Django and ExpressJS.
+- **Programming Languages:** Python, C, C++, Javscript, Java
+- **Technical:** Good knowledge of data structures and algorithms, Linux and building RESTful APIs using Django, ExpressJS and Springboot.
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **Data Engineering Tools:** Apache Airflow, Apache Superset, Apache Kafka, Snowflake
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform
